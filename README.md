@@ -13,7 +13,7 @@
 
 ###
 
-<h2 align="center"><✨Bem-vindo ao meu Git-Hub!</h2>
+<h1 align="center"><✨Bem-vindo ao meu Git-Hub!</h1>
 
 ###
 
