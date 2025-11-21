@@ -51,7 +51,7 @@
 
 ###
 
-<p align="left">Frontend — Criação de designs e interfaces com HTML, CSS e JS<br>Backend — Projetos e desafios em Python e PHP<br>SQL — Consultas e banco de dados</p>
+<p align="left">Frontend — Desenvolvimento de interfaces e layouts responsivos usando HTML, CSS e JavaScript<br>Backend — Implementação de funcionalidades e lógica de aplicações com Python e PHP<br>SQL — Criação e manipulação de bancos de dados, consultas e gestão de dados</p>
 
 ###
 
