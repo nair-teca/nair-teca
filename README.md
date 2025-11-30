@@ -17,7 +17,7 @@
 
 ###
 
-<h4 align="left">🌍 Sou de Luanda, Angola<br>🎓 Estudante finalista de Engenharia Informática em Lisboa<br>⚡ Aspirante a desenvolvedora full-Stack com interesse em desenvolvimento Web e software<br>🎯 Foco em PHP e Python, com conhecimentos em HTML, CSS & JavaScript <br></h4>
+<h4 align="left">🌍 Sou de Luanda, Angola<br>🎓 Estudante finalista de Engenharia Informática em Lisboa<br>⚡ Aspirante a desenvolvedora full-Stack com interesse em desenvolvimento Web e base de dados<br>🎯 Foco em PHP, SQL e Python, com conhecimentos em HTML, CSS & JavaScript <br></h4>
 
 ###
 
