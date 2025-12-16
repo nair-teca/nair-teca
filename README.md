@@ -17,7 +17,15 @@
 
 ###
 
-<h4 align="left">🌍 Sou de Luanda, Angola<br>🎓 Estudante finalista de Engenharia Informática em Lisboa<br>⚡ Aspirante a desenvolvedora full-Stack com interesse em desenvolvimento Web e base de dados<br>🎯 Foco em PHP, SQL e Python, com conhecimentos em HTML, CSS & JavaScript <br></h4>
+<h4 align="left">Sou estudante finalista de Engenharia Informática, atualmente a estudar em Lisboa, com interesse em Engenharia de Software, análise e apresentação de soluções tecnológicas.<br><br>Tenho experiência académica em desenvolvimento de software, mas identifico-me sobretudo com:<br><br>- Compreensão de problemas<br>- Estruturação de soluções<br>- Comunicação técnica e funcional de projetos</h4>
+
+###
+
+<h3 align="center">👩‍🎓 Sobre mim</h3>
+
+###
+
+<h4 align="left">🌍 Natural de Luanda, Angola<br>🎓 Finalista de Engenharia Informática<br>🔍 À procura de estágio curricular<br>💬 Interesse em Engenharia de Software, análise funcional e consultoria tecnológica</h4>
 
 ###
 
@@ -47,11 +55,17 @@
 
 ###
 
-<h3 align="left">Repositório de Projetos</h3>
+<h3 align="left">📂 Repositório de Projetos</h3>
 
 ###
 
-<p align="left">Frontend — Desenvolvimento de interfaces e layouts responsivos usando HTML, CSS e JavaScript<br>Backend — Implementação de funcionalidades e lógica de aplicações com Python e PHP<br>SQL — Criação e manipulação de bancos de dados, consultas e gestão de dados</p>
+<p align="left">Os repositórios disponíveis refletem projetos académicos onde o foco esteve em:<br><br>- Aplicação de conceitos de Engenharia de Software<br>- Estruturação e organização do sistema<br> - Documentação e comunicação da solução</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nair-teca&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
 
