@@ -22,30 +22,22 @@
 
 ###
 
+<h3 align="center">👩‍🎓 Sobre mim</h3>
+
 <h4 align="left">
-Sou finalista de Engenharia Informática no ISTEC, Lisboa, com interesse em Engenharia de Software, desenvolvimento web e análise de soluções tecnológicas.<br><br>
-Tenho experiência acadêmica em desenvolvimento de software e destaco-me em:
+Sou finalista de Engenharia Informática no ISTEC, Lisboa, com interesse em **desenvolvimento front-end, Engenharia de Software e experiência do usuário**.<br><br>
+💡 Pontos fortes:
 <ul>
   <li>Compreensão e análise de problemas</li>
-  <li>Estruturação e implementação de soluções</li>
-  <li>Comunicação técnica e funcional de projetos</li>
+  <li>Estruturação e implementação de soluções web</li>
+  <li>Comunicação técnica clara e documentação de projetos</li>
+  <li>Organização, criatividade e aprendizado rápido</li>
 </ul>
 </h4>
 
 ###
 
-<h3 align="center">👩‍🎓 Sobre mim</h3>
-
-<h4 align="left">
-🌍 Natural de Luanda, Angola<br>
-🎓 Finalista de Engenharia Informática<br>
-🔍 À procura de estágio curricular<br>
-💬 Interesses: Engenharia de Software, análise funcional e consultoria tecnológica
-</h4>
-
-###
-
-<h3 align="center">👩🏾‍💻 Linguagens e ferramentas</h3>
+<h3 align="center">👩🏾‍💻 Tecnologias e Ferramentas</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" />
@@ -63,36 +55,35 @@ Tenho experiência acadêmica em desenvolvimento de software e destaco-me em:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VSCode logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="30" alt="PhpStorm logo" />
 </div>
 
 ###
 
-<h3 align="left">📂 Repositório de Projetos</h3>
-
-<p align="left">
-Meus projetos refletem experiência prática em desenvolvimento acadêmico e incluem:
-<ul>
-  <li>Aplicação de conceitos de Engenharia de Software</li>
-  <li>Estruturação e organização de sistemas</li>
-  <li>Documentação e comunicação clara das soluções</li>
-</ul>
-</p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nair-teca&locale=en&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Languages chart" />
-</div>
-
-###
-
-<h3 align="center">💡 Projetos em Destaque</h3>
+<h3 align="center">📂 Projetos em Destaque</h3>
 
 - **Web-Based Management System** | PHP, MySQL, HTML, CSS, JavaScript  
-  Desenvolvi uma aplicação full-stack para gestão de dados e tarefas de trabalhadores. Criei banco de dados normalizado e interface front-end intuitiva.
+  Desenvolvi uma aplicação full-stack para gestão de dados e tarefas de trabalhadores.  
+  - Banco de dados normalizado em MySQL  
+  - Interface front-end responsiva e intuitiva  
+  - Estrutura clara de código e documentação
 
 - **Interactive Portfolio Website** | HTML5, CSS3, JavaScript  
-  Criei um site responsivo para portfólio pessoal, aplicando princípios de UX/UI e implementando recursos interativos com JavaScript.
+  Criei um site responsivo para portfólio pessoal.  
+  - UX/UI clean e navegação intuitiva  
+  - Recursos interativos com JavaScript  
+  - Design adaptado a dispositivos móveis
+
+###
+
+<h3 align="center">🌐 Idiomas</h3>
+- Português: Nativo  
+- Inglês: Avançado / Fluente
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nair-teca&layout=compact&theme=dracula&langs_count=5" height="150" alt="Top languages" />
+</div>
 
 ###
 
