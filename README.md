@@ -54,4 +54,41 @@ I am a final-year Computer Engineering student at ISTEC, Lisbon, with an interes
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VSCode logo" />
+</div>
+
+###
+
+<h3 align="center">📂 Featured Projects</h3>
+
+- **Web-Based Management System** | PHP, MySQL, HTML, CSS, JavaScript  
+  I developed a full-stack application for managing worker data and tasks.  
+  - Normalized database in MySQL  
+  - Responsive and intuitive front-end interface  
+  - Clear code structure and documentation
+
+- **Interactive Portfolio Website** | HTML5, CSS3, JavaScript  
+  I created a responsive personal portfolio website.  
+  - Clean UX/UI and intuitive navigation  
+  - Interactive features with JavaScript  
+  - Design adapted to mobile devices
+
+###
+
+<h3 align="center">🌐 Languages</h3>
+- Portuguese: Native  
+- English: Advanced / Fluent
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nair-teca&layout=compact&theme=dracula&langs_count=5" height="150" alt="Top languages" />
+</div>
+
+###
+
+<br clear="both">
+
+<div>
+  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=25&descAlign=50&descAlignY=40&textBg=false&color=#ff75bf"  />
+</div>
