@@ -25,12 +25,12 @@
 <h3 align="center">👩‍🎓 Sobre mim</h3>
 
 <h4 align="left">
-Sou finalista de Engenharia Informática no ISTEC, Lisboa, com interesse em **desenvolvimento front-end, Engenharia de Software e experiência do usuário**.<br><br>
+Sou finalista de Engenharia Informática no ISTEC, Lisboa, com interesse em desenvolvimento front-end, Engenharia de Software e experiência do usuáriO.<br><br>
 💡 Pontos fortes:
 <ul>
   <li>Compreensão e análise de problemas</li>
   <li>Estruturação e implementação de soluções web</li>
-  <li>Comunicação técnica clara e documentação de projetos</li>
+  <li>Comunicação técnica e documentação de projetos</li>
   <li>Organização, criatividade e aprendizado rápido</li>
 </ul>
 </h4>
