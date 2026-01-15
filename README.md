@@ -18,26 +18,26 @@
 
 ###
 
-<h2 align="center">✨ Bem-vindo ao meu GitHub!</h2>
+<h2 align="center">✨ Welcome to my GitHub!</h2>
 
 ###
 
-<h3 align="center">👩‍🎓 Sobre mim</h3>
+<h3 align="center">👩‍🎓 About me</h3>
 
 <h4 align="left">
-Sou finalista de Engenharia Informática no ISTEC, Lisboa, com interesse em desenvolvimento front-end, Engenharia de Software e experiência do usuáriO.<br><br>
-💡 Pontos fortes:
+I am a final-year Computer Engineering student at ISTEC, Lisbon, with an interest in front-end development, Software Engineering, and user experience.<br><br>
+💡 Strengths:
 <ul>
-  <li>Compreensão e análise de problemas</li>
-  <li>Estruturação e implementação de soluções web</li>
-  <li>Comunicação técnica e documentação de projetos</li>
-  <li>Organização, criatividade e aprendizado rápido</li>
+  <li>Problem understanding and analysis</li>
+  <li>Structuring and implementation of web solutions</li>
+  <li>Technical communication and project documentation</li>
+  <li>Organization, creativity, and fast learning</li>
 </ul>
 </h4>
 
 ###
 
-<h3 align="center">👩🏾‍💻 Tecnologias e Ferramentas</h3>
+<h3 align="center">👩🏾‍💻 Technologies and Tools</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" />
@@ -54,41 +54,4 @@ Sou finalista de Engenharia Informática no ISTEC, Lisboa, com interesse em dese
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VSCode logo" />
-</div>
-
-###
-
-<h3 align="center">📂 Projetos em Destaque</h3>
-
-- **Web-Based Management System** | PHP, MySQL, HTML, CSS, JavaScript  
-  Desenvolvi uma aplicação full-stack para gestão de dados e tarefas de trabalhadores.  
-  - Banco de dados normalizado em MySQL  
-  - Interface front-end responsiva e intuitiva  
-  - Estrutura clara de código e documentação
-
-- **Interactive Portfolio Website** | HTML5, CSS3, JavaScript  
-  Criei um site responsivo para portfólio pessoal.  
-  - UX/UI clean e navegação intuitiva  
-  - Recursos interativos com JavaScript  
-  - Design adaptado a dispositivos móveis
-
-###
-
-<h3 align="center">🌐 Idiomas</h3>
-- Português: Nativo  
-- Inglês: Avançado / Fluente
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nair-teca&layout=compact&theme=dracula&langs_count=5" height="150" alt="Top languages" />
-</div>
-
-###
-
-<br clear="both">
-
-<div>
-  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=25&descAlign=50&descAlignY=40&textBg=false&color=#ff75bf"  />
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/
