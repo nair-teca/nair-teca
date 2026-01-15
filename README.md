@@ -76,17 +76,9 @@ I am a final-year Computer Engineering student at ISTEC, Lisbon, with an interes
 ###
 
 <h3 align="center">🌐 Languages</h3>
-- Portuguese: Native  
-- English: Advanced / Fluent
+- Portuguese: Native<br>- English: listening and reading comprehension
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nair-teca&layout=compact&theme=dracula&langs_count=5" height="150" alt="Top languages" />
-</div>
-
-###
-
 <br clear="both">
 
 <div>
